@@ -5,7 +5,7 @@ import { Box, Flex, Heading, Text } from "@chakra-ui/layout";
 import { Table, Tbody, Td, Th, Thead, Tr } from "@chakra-ui/table";
 import { RiAddLine, RiPencilLine } from "react-icons/ri";
 import { Header } from "../../components/Header/index";
-import { Pagination } from "../../components/Pagination";
+import { Pagination } from "../../components/Pagination/index";
 import { Sidebar } from "../../components/Sidebar/index";
 
 export default function UserList() {
