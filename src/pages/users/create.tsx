@@ -1,8 +1,8 @@
 import { Button } from "@chakra-ui/button";
 import { Box, Divider, Flex, Heading, HStack, SimpleGrid, VStack } from "@chakra-ui/layout";
 import { Input } from "../../components/Form/Input";
-import { Header } from "../../components/Header";
-import { Sidebar } from "../../components/Sidebar";
+import { Header } from "../../components/Header/index";
+import { Sidebar } from "../../components/Sidebar/index";
 
 export default function CreateUser() {
   return (
