@@ -7,7 +7,9 @@ An admin dashbaord developed with:
 - Next.js
 - TypeScript
 - Chakra UI component library (better developer experience for creating responsive and accessible components)
-- Apex Charts
+- Apex Charts library
+- React Hook Form library
+- Yup object schema validation library
 
 ![alt text](https://viviane-documents.s3-us-west-2.amazonaws.com/2021-04-19+10.11.31.gif)
 
